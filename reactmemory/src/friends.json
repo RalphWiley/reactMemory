@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "rupaul1",
+    "image": "../images/rupaul1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "rupaul2",
+    "image": "./images/rupaul2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "rupaul3",
+    "image": "./images/rupaul3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "rupaul4",
+    "image": "./images/rupaul4.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "rupaul5",
+    "image": "./images/rupaul5.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "rupaul6",
+    "image": "./images/rupaul6.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "rupaul7",
+    "image": "./images/rupaul7.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "rupaul8",
+    "image": "./images/rupaul8.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "rupaul9",
+    "image": "./images/rupaul9.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "rupaul10",
+    "image": "./images/rupaul10.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "rupaul11",
+    "image": "./images/rupaul11.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "rupaul12",
+    "image": "./images/rupaul12.jpeg"
+  }
+]

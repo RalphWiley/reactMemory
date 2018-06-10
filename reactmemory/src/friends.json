@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "name": "rupaul1",
-    "image": "../images/rupaul1.jpeg"
+    "name": "Aquaria",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/rpdrs10-aquaria-avatar.jpg?quality=0.99&width=250&height=250&crop=true"
   },
   {
     "id": 2,
-    "name": "rupaul2",
-    "image": "./images/rupaul2.jpeg"
+    "name": "Asia",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/rpdrs10-asia-avatar.jpg?quality=0.99&width=250&height=250&crop=true"
   },
   {
     "id": 3,
-    "name": "rupaul3",
-    "image": "./images/rupaul3.jpeg"
+    "name": "Blair",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/rpdrs10-blair-avatar.jpg?quality=0.99&width=250&height=250&crop=true"
   },
   {
     "id": 4,
-    "name": "rupaul4",
-    "image": "./images/rupaul4.jpeg"
+    "name": "Dusty",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/rpdrs10-dusty-avatar.jpg?quality=0.99&width=250&height=250&crop=true"
   },
   {
     "id": 5,
-    "name": "rupaul5",
-    "image": "./images/rupaul5.jpeg"
+    "name": "Eureka",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/rpdrs10-eureka-avatar.jpg?quality=0.85&width=250&height=250&crop=true"
   },
   {
     "id": 6,
-    "name": "rupaul6",
-    "image": "./images/rupaul6.jpeg"
+    "name": "Kalorie",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/meet-the-queens/Coriander6-avatar.jpg?quality=0.85&width=250&height=250&crop=true"
   },
   {
     "id": 7,
-    "name": "rupaul7",
-    "image": "./images/rupaul7.jpeg"
+    "name": "Kameron",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/meet-the-queens/Coriander7avatar.jpg?quality=0.85&width=250&height=250&crop=true"
   },
   {
     "id": 8,
-    "name": "rupaul8",
-    "image": "./images/rupaul8.jpeg"
+    "name": "Mayhem",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/meet-the-queens/Coriander8avatar.jpg?quality=0.85&width=250&height=250&crop=true"
   },
   {
     "id": 9,
-    "name": "rupaul9",
-    "image": "./images/rupaul9.jpeg"
+    "name": "Miz",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/meet-the-queens/Coridander9avatar.jpg?quality=0.85&width=250&height=250&crop=true"
   },
   {
     "id": 10,
-    "name": "rupaul10",
-    "image": "./images/rupaul10.jpeg"
+    "name": "Monique",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/rpdrs10-monique-avatar.jpg?quality=0.85&width=250&height=250&crop=true"
   },
   {
     "id": 11,
-    "name": "rupaul11",
-    "image": "./images/rupaul11.jpeg"
+    "name": "Monet",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/meet-the-queens/Coriander10avatar.jpg?quality=0.85&width=250&height=250&crop=true"
   },
   {
     "id": 12,
-    "name": "rupaul12",
-    "image": "./images/rupaul12.jpeg"
+    "name": "Yuhua",
+    "image": "http://vh1.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/vh1/shows/rupauls-drag-race/videos/season-10/rpdrs10-yuhua-avatar.jpg?quality=0.85&width=250&height=250&crop=true"
   }
 ]

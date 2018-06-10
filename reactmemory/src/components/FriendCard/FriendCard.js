@@ -8,7 +8,7 @@ const FriendCard = props => (
       <a onClick={() => props.selectQueen(props.name)} 
         className={props.score === 0 ? "style_prevu_kit style_prevu_kit_ex" : "style_prevu_kit"}
       >
-        <img alt={props.image} src={props.image} />
+        <img alt={props.id} src={props.image} />
       </a>
     </div>
 

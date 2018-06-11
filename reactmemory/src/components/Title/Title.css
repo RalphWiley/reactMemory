@@ -8,6 +8,7 @@
   background-image: url(../images/Banner.jpg);
   padding: 100px 10px;
   line-height: 150px;
+  text-shadow: 2px 2px 10px white;
 }
 
 .header h1 {
